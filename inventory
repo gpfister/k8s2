@@ -1,0 +1,7 @@
+[k8s2]
+k8s2m01
+k8s2s01
+k8s2s02
+
+[master]
+k8s2m01
